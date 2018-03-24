@@ -1,0 +1,6 @@
+{
+  "project_name": "Fun Project",
+  "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_') }}",
+  "full_name": "Thibault Deutsch",
+  "year": 2018
+}
